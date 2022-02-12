@@ -13,15 +13,11 @@ function App() {
 
       <footer>
         Weather app project coded by Danielle and is{" "}
-        <a
-          href="https://github.com/d-joyy/weather-react-app"
-          target="_blank"
-          class="open-source-code"
-        >
+        <a href="https://github.com/d-joyy/react-weather-app">
           Open-sourced on GitHub
         </a>{" "}
         and hosted on{" "}
-        <a href="https://app.netlify.com/" target="_blank" class="hosted">
+        <a href="https://app.netlify.com/sites/zen-swanson-1c04e2/deploys">
           Netlify.
         </a>
       </footer>
