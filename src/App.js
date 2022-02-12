@@ -21,7 +21,7 @@ function App() {
           Open-sourced on GitHub
         </a>{" "}
         and hosted on{" "}
-        <a href="https://app.netlify.com" target="_blank" class="hosted">
+        <a href="https://app.netlify.com/" target="_blank" class="hosted">
           Netlify.
         </a>
       </footer>
