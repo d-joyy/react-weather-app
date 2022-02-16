@@ -10,7 +10,6 @@ function App() {
         <h1>Weather App</h1>
         <Weather />
       </header>
-
       <footer>
         Weather app project coded by Danielle and is{" "}
         <a href="https://github.com/d-joyy/react-weather-app">
