@@ -9,7 +9,7 @@ export default function App() {
         <Weather defaultCity="Japan" />
         <footer>
           This project was coded by Danielle and is{" "}
-          <a href="https://github.com/d-joyy/react-weather-app" target="_blank">
+          <a href="https://github.com/d-joyy/react-weather-app">
             open-sourced on GitHub
           </a>{" "}
           and hosted on <a href="https://app.netlify.com">Netlify.</a>
